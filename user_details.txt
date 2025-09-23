@@ -1,0 +1,25 @@
+User_Name : karthik
+Phone_Number : 7012296476
+Place of residence : north paravur
+Borrow Date : 2025-09-18
+
+Books Borrowed:
+the old man and the sea
+the innovators
+the reversal
+
+Return Date : 2025-09-25
+
+============================================================================
+User_Name : jitha
+Phone_Number : 7907191810
+Place of residence : kaitharam
+Borrow Date : 2025-09-18
+
+Books Borrowed:
+animal farm
+pride and prejudice
+
+Return Date : 2025-09-24
+
+============================================================================
